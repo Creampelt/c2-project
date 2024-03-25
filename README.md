@@ -1,6 +1,6 @@
 # Command and Control Project
 
-This repo contains the implementation of a backdoor that can be installed on a Linux machine running Python 2.7 and allows for remote root shell access that persists over machine reboots. Installation of the backdoor requires root privileges.
+This repo contains the implementation of a backdoor that can be installed on a Linux machine running Python 2.7 and allows for remote root shell access that persists over machine reboots. Installation of the backdoor requires root privileges. This has been tested on Kali (attacker's machine) and a variation of CentOS7 (host machine).
 
 ## Installation
 
